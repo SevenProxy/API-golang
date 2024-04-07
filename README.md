@@ -1,3 +1,9 @@
+<div align="center">
+
+[<img src="https://cdn.discordapp.com/attachments/1219426767069118516/1226378543068352602/banner_proxy.png?ex=66248d05&is=66121805&hm=1f9c686509974b052868cdd793d9d23d43acb33468bf5ea20a95548681912d22&" width="750" />](https://cdn.discordapp.com/attachments/1219426767069118516/1226378543068352602/banner_proxy.png?ex=66248d05&is=66121805&hm=1f9c686509974b052868cdd793d9d23d43acb33468bf5ea20a95548681912d22&)
+
+</div>
+
 # API em Go
 
 Esta é uma API simples desenvolvida em Go (Golang) usando o framework web Gin.
